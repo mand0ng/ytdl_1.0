@@ -3,7 +3,11 @@ import sys
 import time
 import requests
 
-
+# PUT URLS HERE 
+# PUT URLS HERE 
+# PUT URLS HERE 
+# PUT URLS HERE  
+#  syntax : urls1, urls2, ..
 urls = [
 	"https://www.youtube.com/watch?v=CCnKhFtuNj4"
 ]
