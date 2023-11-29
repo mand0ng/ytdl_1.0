@@ -2,10 +2,11 @@
 
 PYTHON SCRIPT THAT DOWNLOADS FASTER AND BETTER QUALITY THAN USING A FREE WEBSITE YOUTUBE DOWNLOADER 
 
+WHY I MADE THIS SCRIPT
+
 <b>Problem :</b> <br> 
-When my sister together with her family moved out to our house, and went to her husbands place which is in Siquijor. 
-Their kids who loves to watch Youtube Videos and since the internet and data connection there is not that accessable. 
-The kids can very rarely watch videos anymore. So ...
+When my sister moved out. They lived in a remote place in PH called Siquijor. Their kids used to watch Youtube Videos and 
+unfortunatly they dont have wifi at their new home.
 
 
 <b>Future Plans: make a simple gui and export it to an exe file</b>
